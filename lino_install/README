@@ -1,0 +1,5 @@
+How to run install:
+        $ ./install <base> <sensor> <install_path>
+
+Example:
+       $ ./install 2wd rplidar /home/mants/workspace/sweep 

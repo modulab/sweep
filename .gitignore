@@ -1,0 +1,5 @@
+# ignore linrobot unwanted 
+linorobot_ws/build
+linorobot_ws/devel
+linorobot_ws/.catkin_workspace
+linorobot_ws/src/CMakeLists.txt
